@@ -13,7 +13,7 @@
 - [Communication](#communication)
 - [Leadership](#leadership)
 - [Strategic Planning](#strategic_planning)
-- [Case Study](#case_study:)
+- [Case Study](#case-study)
 - [License](#license)
 - [Acknowledgments](#acknowledgments)
 - [Libraries & Tools](#libraries--tools)
@@ -64,7 +64,7 @@
 ## Problem Solving
 - [Problem-Solving Framework Document]
 
-## Case Study: 
+## Case Study
 - [Successful Collaboration Example Story]
 
 ## License
